@@ -2,17 +2,9 @@
 #2 microsoft google@gmail.com 1111111 ggg recruiter
 #3 Raj Aryan raj@gmail.com 8080808080 raj123 student
 #4 Raj Aryan aryan@gmail.com 7070707070 rrr student
-#2 Mass recruiter mass@gmail.com 10101010 mmm recruiter
-
-//cloudinary pass- #Rohit1234#
-
-// LatestJob.jsx :  
-    silce(0,6) -> how many jobcards wants to display (displays 6 cards only)
+#5 Mass recruiter mass@gmail.com 10101010 mmm recruiter
 
 
-// flex -> makes div  - horizontal
 
-onInteractOutside={() => setOpen(false)}
 
-//some(x) -> if x exist then it return true
 
