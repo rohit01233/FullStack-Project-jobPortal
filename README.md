@@ -27,15 +27,18 @@ The system allows job seekers to browse and apply for jobs, while recruiters can
 ## 📂 Project Structure
 
 jobPortal/
-├── backend/            # Node.js + Express backend
+├── backend/        # Node.js + Express backend
 │   ├── index.js
 │   ├── package.json
 │   └── ...
-├── Frontend_new/       # React.js frontend
+│
+├── Frontend_new/   # React.js frontend
 │   ├── src/
 │   ├── package.json
 │   └── ...
+│
 └── README.md
+
 
 
 🌟 Usage
